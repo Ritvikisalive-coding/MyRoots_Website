@@ -12,7 +12,7 @@ MyRoots was founded back in 2022 but i have been putting the project off to the 
 ---
 
 Find the download for the app here
-[Donwload](www.google.com)
+[Download](www.google.com)
 
 Or navigate to the website and download it from there. The URL is 
 www.MyRoots.com.au
